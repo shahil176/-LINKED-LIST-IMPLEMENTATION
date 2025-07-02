@@ -27,3 +27,4 @@ Furthermore, this task provides a strong foundation for understanding more advan
 
 Overall, the Singly Linked List program developed in this task demonstrates a strong understanding of dynamic memory, modular design, and pointer-based data structure manipulation. This skill is vital for any aspiring systems programmer, software engineer, or backend developer working with performance-sensitive or hardware-near applications.
 #OUTPUT: 
+![Image](https://github.com/user-attachments/assets/88c174ba-b343-4e31-a403-caa940490c69)
